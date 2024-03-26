@@ -1,0 +1,7 @@
+{
+  "northwind_metadata.edmx": {
+    "packageName": "northwind",
+    "directoryName": "northwind",
+    "basePath": "/v2/northwind/northwind.svc/"
+  }
+}
